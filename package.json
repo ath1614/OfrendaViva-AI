@@ -1,0 +1,36 @@
+{
+  "name": "ofrendaviva-ai",
+  "version": "1.0.0",
+  "description": "100% Local Día de los Muertos Altar & Ghost-in-the-Machine Spirit Séance with Gemma 2 & React-Bits",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "devchallenge",
+    "dia-de-los-muertos",
+    "ghost-in-the-machine",
+    "react-bits",
+    "gemma",
+    "local-ai"
+  ],
+  "author": "Atharv Soni",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.65.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/canvas-confetti": "^1.9.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.5"
+  }
+}
